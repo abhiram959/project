@@ -1,0 +1,23 @@
+div{
+    width: 400px;
+    height: 400px;
+   background-color: aqua;
+   border: 5px solid black;
+}
+.d1{
+    margin-top: -410px;
+    margin-left: 500px;
+   
+}
+.d2{
+    margin-top: -410px;
+    margin-left:1000px ;
+}
+.d3{
+    margin-top: 10px;
+    
+}
+.d4{
+    margin-top: -410px;
+    margin-left:500px ;
+}
